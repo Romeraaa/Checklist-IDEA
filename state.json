@@ -1,0 +1,123 @@
+{
+  "joinerName": "Adrian Romera",
+  "technician": "",
+  "requestNumber": "",
+  "date": "2025-10-31",
+  "tasks": [
+    {
+      "name": "CREACIÓN DE USUARIOS AD/365",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "PERMISOS AD",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "LICENCIAS, PUESTO Y OFICINA 365",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "ACCESOS DIRECTOS (EXACT, 7-ZIP, VPN ETC)",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "INSTALAR PROGRAMAS CONCRETOS",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "CONFIGURAR VPN",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "INSTALAR MS TEAMS",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "ADOBE, 7-ZIP Y CHROME PREDETERMINADOS",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "ORDENAR BARRA DE TAREAS",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "INSTALAR IMPRESORA Y PONER EN BLANCO Y NEGRO",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "SOLICITAR CLAVES WIN/OFFICE",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "ACTIVAR CLAVES WIN/OFFICE",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "INICIAR SESION OUTLOOK/TEAMS",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "CONFIGURAR FUENTE OPEN SANS",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "CONFIGURAR FIRMA CORPORATIVA (borrar correo)",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "SI TIENE 2 CORREOS: DESACTIVAR LEIDO / CONFIGURAR FIRMA",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "CONFIGURAR FIRMA EN OUTLOOK WEB",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "ENVIAR CORREO RRHH CREDS EXACT/CORREO",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "BUSCAR ACTUALIZACIONES",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "POSIT CON CONTRASEÑA",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "MONTAR PUESTO",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "COMPROBACIONES INVENTARIO",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "name": "CREAR ACCESO DIRECTO ONEDRIVE",
+      "done": false,
+      "notes": ""
+    }
+  ]
+}
